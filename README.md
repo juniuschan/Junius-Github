@@ -1,2 +1,2 @@
 # Junius-Github
-A teset for using Github
+A repo of Junius Chan
