@@ -1,7 +1,10 @@
 import openpyxl
 
 
-sys_rec = 'ch145.xlsx'
+"""
+a demo.xlsx and sales_rec.xlsx are needed specifically
+"""
+sys_rec = 'demo.xlsx'
 manu_rec = 'sales_rec.xlsx'
 CERTIFICATE = 'certificate.xlsx' # set to be a constant
 
